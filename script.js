@@ -304,4 +304,4 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 
-}); // Fin de DOMContentLoaded
+}); 
